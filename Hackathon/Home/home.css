@@ -1,0 +1,43 @@
+.navbar {
+    height: 50px;
+    background-color:#5108fa;
+}
+
+
+
+.dashboard {
+    height: 450px;
+    width: 500px;
+    display: flex;
+    margin-left: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body {
+    text-align: left;
+}
+
+.input-sec {
+    width: 450px;
+
+}
+
+.blog-sec {
+    height: 450px;
+    ;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.card-body .btn {
+    background-color: #5108fa;
+}
+
+.profile {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-style: italic;
+}
